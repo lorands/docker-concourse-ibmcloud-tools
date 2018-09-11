@@ -1,5 +1,5 @@
 # docker-concourse-ibmcloud-tools
-Docker image to be used with Concourse performing IBM Cloud (bluemix) commands.
+Docker image to be used with Concourse performing IBM Cloud (bluemix) commands and plugins.
 
 
 https://console.bluemix.net/docs/cli/reference/ibmcloud/all_versions.html#all-versions-of-the-ibm-cloud-cli-installer
