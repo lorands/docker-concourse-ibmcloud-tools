@@ -7,7 +7,7 @@ ADD VERSION .
 # ENV BLUEMIX_API_KEY ""
 
 #RUN apk update
-RUN apk add --no-cache bash ca-certificates curl jq
+RUN apk add --no-cache bash ca-certificates curl jq python3
 RUN update-ca-certificates
 
 WORKDIR /tmp
