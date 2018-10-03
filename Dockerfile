@@ -1,4 +1,5 @@
-FROM nimmis/alpine-glibc:latest
+#FROM nimmis/alpine-glibc:latest
+FROM frolvlad/alpine-glibc
 
 ADD VERSION .
 
